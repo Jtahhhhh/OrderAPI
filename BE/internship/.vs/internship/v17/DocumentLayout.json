@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\repositories\\unitofword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\repositories\\unitofword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\controllers\\submitmodels\\addorderdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\controllers\\submitmodels\\addorderdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\controllers\\submitmodels\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\controllers\\submitmodels\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\repositories\\interface\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\repositories\\interface\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\controllers\\submitmodels\\searchorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\controllers\\submitmodels\\searchorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\database\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\database\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\database\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\database\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\internship.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\internship.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|c:\\users\\admin\\desktop\\learn\\b\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\be\\internship\\internship\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWord.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\UnitOfWord.cs",
+              "RelativeDocumentMoniker": "internship\\Repositories\\UnitOfWord.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\UnitOfWord.cs",
+              "RelativeToolTip": "internship\\Repositories\\UnitOfWord.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:57:16.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "internship\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "internship\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:52:05.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\Interface\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "internship\\Repositories\\Interface\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\Interface\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "internship\\Repositories\\Interface\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:49:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Controllers\\SubmitModels\\SearchOrderForm.cs",
+              "RelativeDocumentMoniker": "internship\\Controllers\\SubmitModels\\SearchOrderForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Controllers\\SubmitModels\\SearchOrderForm.cs",
+              "RelativeToolTip": "internship\\Controllers\\SubmitModels\\SearchOrderForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:48:12.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order_detail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Database\\Order_detail.cs",
+              "RelativeDocumentMoniker": "internship\\Database\\Order_detail.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Database\\Order_detail.cs",
+              "RelativeToolTip": "internship\\Database\\Order_detail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:48:04.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrderDetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Controllers\\SubmitModels\\AddOrderDetailForm.cs",
+              "RelativeDocumentMoniker": "internship\\Controllers\\SubmitModels\\AddOrderDetailForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Controllers\\SubmitModels\\AddOrderDetailForm.cs",
+              "RelativeToolTip": "internship\\Controllers\\SubmitModels\\AddOrderDetailForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:47:06.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "internship\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "internship\\Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:43:40.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Controllers\\SubmitModels\\EditOrderForm.cs",
+              "RelativeDocumentMoniker": "internship\\Controllers\\SubmitModels\\EditOrderForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Controllers\\SubmitModels\\EditOrderForm.cs",
+              "RelativeToolTip": "internship\\Controllers\\SubmitModels\\EditOrderForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:46:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Database\\Order.cs",
+              "RelativeDocumentMoniker": "internship\\Database\\Order.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Database\\Order.cs",
+              "RelativeToolTip": "internship\\Database\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:48:03.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "internship",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\internship.csproj",
+              "RelativeDocumentMoniker": "internship\\internship.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\internship.csproj",
+              "RelativeToolTip": "internship\\internship.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T04:46:23.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "internship\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\B\u00E1o c\u00E1o m\u00F4n ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF h\u1EC7 th\u1ED1ng h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\vhec_internship2024_dev2\\BE\\internship\\internship\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "internship\\Repositories\\ItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:43:38.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
